@@ -131,5 +131,3 @@ reg query HKCU /f "password" /t REG_SZ /s
 ✔️ Find **hardcoded passwords, API keys, and hashes** in **config files, logs, and scripts**.  
 ✔️ Useful for **pentesting, security audits, and incident response**.  
 
-🔥 **This cheatsheet is perfect for security professionals and penetration testers!** Let me know if you need **modifications or Windows-specific regex tweaks!** 🚀🔥
-
